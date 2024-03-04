@@ -76,3 +76,8 @@ Check out the [post](https://testdriven.io/blog/django-rest-auth/).
     ```
    
 1. Your authentication API is now accessible at [http://localhost:8000/api/auth/](http://localhost:8000/api/auth/).
+
+
+1. Api list [Swagger](http://localhost:8000/swagger/).
+
+1. Api list [Redoc](http://localhost:8000/redoc/).
